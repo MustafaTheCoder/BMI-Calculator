@@ -1,4 +1,3 @@
-
 Height=float(input("Enter Height In Centimeters: "))
 Weight=float(input("Enter Weight In Kg: "))
 Height = Height/100
